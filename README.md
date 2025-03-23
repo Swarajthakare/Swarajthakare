@@ -1,5 +1,5 @@
 -  Hi, I’m @Swarajthakare
--  I’m interested in Data Science and Data Analytics
+-  I’m Data Science and Data Analytics Enthusiast
 -  I’m currently learning deep learning
 -  I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me swarajthakare@8gmail.com
